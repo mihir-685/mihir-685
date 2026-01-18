@@ -8,7 +8,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihir-685&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=mihir685&style=for-the-badge&color=blueviolet"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-685&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir685&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@
 👉 https://www.linkedin.com/in/mihir685/  
 
 💻 GitHub:  
-👉 https://github.com/mihir-685  
+👉 https://github.com/mihir685  
 
 📩 Open to:  
 Internships • Projects • Collaboration • Learning opportunities  
